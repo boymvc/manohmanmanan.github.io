@@ -1,5 +1,5 @@
 #manohmanmanan.github.io
-A Recipe Book made using
+Recipe Book
 <!DOCTYPE html>
 <html>
     <head>
