@@ -1,9 +1,9 @@
-
+#manohmanmanan.github.io
 Recipe Book
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Project: Recipe book</title>
+        <title>Recipe book</title>
         <meta charset="utf-8">
         <style>
         body {
