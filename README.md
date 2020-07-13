@@ -1,5 +1,3 @@
-#manohmanmanan.github.io
-Recipe Book
 <!DOCTYPE html>
 <html>
     <head>
